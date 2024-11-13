@@ -1,2 +1,2 @@
-# modulo03_ENAP
-Repositório de trabalhos realizados durante o curso de Manipulação de Base de Dados (mód.03)
+# Modulo03_2024_ENAP
+Repositório de trabalhos (ENAP - Programação em Python para Análise de Dados - mód.03/2024)
