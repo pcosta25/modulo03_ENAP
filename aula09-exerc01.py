@@ -1,12 +1,3 @@
-#Passo01: Instalando o streamlit
-!pip install streamlit
-
-#Passo02: Importando o streamlit e o pandas
-import streamlit as st
-import pandas as pd
-
-#Passo03: Executando a atividade 01
-
 df = pd.DataFrame({
     'nomeServidor': ['Adriana', 'Monica', 'Samara'],
     'salario': [1200,300,5000]
